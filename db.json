@@ -1,0 +1,71 @@
+{
+  "product": [
+    {
+      "id": "11",
+      "categoryID": "1",
+      "name": "Francis Abernathy",
+      "image": "http://picsum.photos/640/480/",
+      "price": "73",
+      "status": "False",
+      "description": "Trisha10"
+    },
+    {
+      "id": "12",
+      "categoryID": 2,
+      "name": "Fred Wisozk",
+      "image": "http://picsum.photos/640/480/",
+      "price": 93,
+      "status": true,
+      "description": "Cayla_Howe99"
+    },
+    {
+      "id": "14",
+      "categoryID": 2,
+      "name": "Aglae Shields",
+      "image": "http://picsum.photos/640/480/",
+      "price": 28,
+      "status": false,
+      "description": "Carmel67"
+    },
+    {
+      "id": "arqupatqs",
+      "name": "Nghệ Thuật Lấy Lòng Khách Hàng",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fnghe-thuat-lay-long-khach-hang.jpg?alt=media&token=36f33a85-5442-42a8-84da-673ad8e2756b",
+      "categoryID": "1",
+      "price": "70000",
+      "status": "true",
+      "description": "desc"
+    },
+    {
+      "id": "fb8g9zgsm",
+      "name": "Pr Là Sống",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ecommerce-f0793.appspot.com/o/images%2Fpr-la-song.jpg?alt=media&token=8ee3f90b-5a57-41f8-b4e1-bb0396e7f2be",
+      "categoryID": "m0jc8c97q",
+      "price": "120000",
+      "status": "true",
+      "description": "desc "
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Ngôn Tình"
+    },
+    {
+      "id": 2,
+      "name": "Chuyện cổ tích"
+    },
+    {
+      "id": "o40cf7584",
+      "name": "Đời sống"
+    },
+    {
+      "id": "noesoge6b",
+      "name": "Trinh thám"
+    },
+    {
+      "id": "m0jc8c97q",
+      "name": "Marketing - Bán hàng"
+    }
+  ]
+}
